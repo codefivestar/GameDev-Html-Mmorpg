@@ -1,0 +1,22 @@
+{
+  "name": "html-mmorpg",
+  "version": "1.0.0",
+  "description": "Html 5 Game ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codefivestar/Html-Mmorpg.git"
+  },
+  "author": "Hidequel Puga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codefivestar/Html-Mmorpg/issues"
+  },
+  "homepage": "https://github.com/codefivestar/Html-Mmorpg#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
